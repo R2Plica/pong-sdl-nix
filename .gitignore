@@ -1,6 +1,10 @@
 # Prerequisites
+.envrc
 *.d
-
+build/
+*.ccls-cache
+@nix*
+src@*
 # Compiled Object files
 *.slo
 *.lo
